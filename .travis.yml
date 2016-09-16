@@ -1,6 +1,3 @@
-language: ruby
-rvm:
-  - 1.27.0
 env:
   - DB=postgresql
 addons:
